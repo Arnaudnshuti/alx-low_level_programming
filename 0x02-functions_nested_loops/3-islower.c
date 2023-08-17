@@ -15,5 +15,3 @@
 		else
 			return (0);
 	}
-
-
